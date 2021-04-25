@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\bin\Debug\Reading and Refreshment01.exe.config
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\bin\Debug\Reading and Refreshment01.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\bin\Debug\Reading and Refreshment01.pdb
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading and Refreshment01.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading_and_Refreshment01.BillingForm.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading_and_Refreshment01.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading and Refreshment01.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading and Refreshment01.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading and Refreshment01.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading and Refreshment01\Reading and Refreshment01\obj\Debug\Reading and Refreshment01.pdb

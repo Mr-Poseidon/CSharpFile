@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\bin\Debug\TheSwitcher.exe.config
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\bin\Debug\TheSwitcher.exe
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\bin\Debug\TheSwitcher.pdb
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.Form1.resources
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.exe
+C:\Users\lenovo\Desktop\C#\TheSwitcher\TheSwitcher\obj\Debug\TheSwitcher.pdb

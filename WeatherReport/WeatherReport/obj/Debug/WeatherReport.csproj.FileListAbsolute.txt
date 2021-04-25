@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\bin\Debug\WeatherReport.exe.config
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\bin\Debug\WeatherReport.exe
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\bin\Debug\WeatherReport.pdb
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.Form1.resources
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.exe
+C:\Users\lenovo\Desktop\C#\WeatherReport\WeatherReport\obj\Debug\WeatherReport.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reading and Refreshment01", "Reading and Refreshment01\Reading and Refreshment01.csproj", "{CBA3CD4D-AE3A-4579-95B6-A3A81B24ED1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBA3CD4D-AE3A-4579-95B6-A3A81B24ED1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBA3CD4D-AE3A-4579-95B6-A3A81B24ED1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBA3CD4D-AE3A-4579-95B6-A3A81B24ED1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBA3CD4D-AE3A-4579-95B6-A3A81B24ED1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089635D2-3A26-46C9-936E-44F7D914ACFB}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\bin\Debug\Reading And Refreshment.exe.config
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\bin\Debug\Reading And Refreshment.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\bin\Debug\Reading And Refreshment.pdb
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading And Refreshment.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading_And_Refreshment.BookForm.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading_And_Refreshment.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading And Refreshment.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading And Refreshment.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading And Refreshment.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\Reading And Refreshment\Reading And Refreshment\obj\Debug\Reading And Refreshment.pdb

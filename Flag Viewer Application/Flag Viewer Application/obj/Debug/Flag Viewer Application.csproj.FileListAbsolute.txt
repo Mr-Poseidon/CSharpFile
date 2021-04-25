@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\bin\Debug\Flag Viewer Application.exe.config
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\bin\Debug\Flag Viewer Application.exe
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\bin\Debug\Flag Viewer Application.pdb
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag Viewer Application.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag_Viewer_Application.Form1.resources
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag_Viewer_Application.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag Viewer Application.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag Viewer Application.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag Viewer Application.exe
+C:\Users\lenovo\Desktop\C#\Flag Viewer Application\Flag Viewer Application\obj\Debug\Flag Viewer Application.pdb

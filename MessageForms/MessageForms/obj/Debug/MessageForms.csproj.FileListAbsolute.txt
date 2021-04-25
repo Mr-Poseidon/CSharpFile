@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\bin\Debug\MessageForms.exe.config
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\bin\Debug\MessageForms.exe
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\bin\Debug\MessageForms.pdb
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.Form1.resources
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.Properties.Resources.resources
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.exe
+C:\Users\lenovo\Desktop\C#\MessageForms\MessageForms\obj\Debug\MessageForms.pdb
