@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\bin\Debug\CaloriesCounter.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.pdb
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\CaloriesCounter\CaloriesCounter\obj\Debug\CaloriesCounter.CaloriesCounterForm.resources

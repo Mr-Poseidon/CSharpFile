@@ -1,0 +1,10 @@
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\bin\Debug\ChooseColor.exe.config
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\bin\Debug\ChooseColor.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\bin\Debug\ChooseColor.pdb
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.csprojAssemblyReference.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.Form1.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.exe
+C:\Users\lenovo\Desktop\Programming_in_C#_,Net\ChooseColor\ChooseColor\obj\Debug\ChooseColor.pdb
